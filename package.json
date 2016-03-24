@@ -1,0 +1,31 @@
+{
+  "name": "rls-api-lib-nodejs",
+  "version": "1.0.0",
+  "description": "The official NodeJS module for the RLS api.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izy521/discord.io.git"
+  },
+  "keywords": [
+    "Rocket League",
+    "Rocket League API",
+    "Rocket League Stats",
+    "Rocket League Stats API"
+  ],
+  "author": "AeonLucid <aeonlucid@outlook.com> (https://rocketleaguestats.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RocketLeagueStats/rls-api-lib-nodejs/issues"
+  },
+  "homepage": "https://github.com/RocketLeagueStats/rls-api-lib-nodejs#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "unirest": "^0.4.2"
+  }
+}
