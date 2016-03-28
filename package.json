@@ -1,6 +1,6 @@
 {
   "name": "rls-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The official NodeJS module for the RLS api.",
   "main": "./lib/index.js",
   "scripts": {
