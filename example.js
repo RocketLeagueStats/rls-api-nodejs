@@ -1,7 +1,7 @@
 var rls = require('rls-api');
 
 var client = new rls.Client({
-    token: "79EFE805EF12FFF55DADF76CE542E3D7D347C76E2E31306286C691CC4B875BAC"
+    token: "your_api_key"
 });
 
 client.getPlatformsData(function(status, data){
