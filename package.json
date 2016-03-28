@@ -1,10 +1,10 @@
 {
-  "name": "rls-api-lib-nodejs",
+  "name": "rls-api",
   "version": "1.0.0",
   "description": "The official NodeJS module for the RLS api.",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "mocha ./test/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,9 +22,6 @@
     "url": "https://github.com/RocketLeagueStats/rls-api-lib-nodejs/issues"
   },
   "homepage": "https://github.com/RocketLeagueStats/rls-api-lib-nodejs#readme",
-  "devDependencies": {
-    "mocha": "^2.4.5"
-  },
   "dependencies": {
     "unirest": "^0.4.2"
   }
