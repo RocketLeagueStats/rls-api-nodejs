@@ -29,10 +29,11 @@ var client = new rls.Client({
     token: "REPLACE_ME_WITH_YOUR_API_KEY"
 });
 ``` 
-After that, your ready to go! You can begin making queries to https://rocketleaguestats.com/!
+After that, you are ready to go! You can begin making queries to [https://api.rocketleaguestats.com/](#)!
 
 ### Links
- * [Rocket League Stats](https://rocketleaguestats.com/)
- * [Example](https://github.com/RocketLeagueStats/rls-api-lib-nodejs/blob/master/example.js)
- * [API Documentation](http://documentation.rocketleaguestats.com/)
+ * [RocketLeagueStats](https://rocketleaguestats.com/)
+ * [RocketLeagueStats - HTTP API Documentation](http://documentation.rocketleaguestats.com/)
+ * [RocketLeagueStats - Developer portal (Request an API key)](https://developers.rocketleaguestats.com/)
+ * [Usage example](https://github.com/RocketLeagueStats/rls-api-lib-nodejs/blob/master/examples/example-1.js)
 
