@@ -1,6 +1,6 @@
 {
   "name": "rls-api",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "The official NodeJS module for the RLS api.",
   "main": "./lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/RocketLeagueStats/rls-api-nodejs#readme",
   "dependencies": {
-    "simple-rate-limiter": "^0.2.3",
-    "unirest": "^0.5.1"
+    "request": "^2.83.0",
+    "simple-rate-limiter": "^0.2.3"
   }
 }
